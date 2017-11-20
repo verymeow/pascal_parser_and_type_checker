@@ -1,0 +1,16 @@
+RULES FOR PASCAL:
+
+1) POINTERS:
+Two pointers are type equivalent if they are internal name equivalent.
+
+2) ARRAYS:
+Two arrays are type equivalent if they are structurally equivalent.
+
+3) STRUCTURES:
+Two structs (records) are type equivalent if they are structurally equivalent.
+
+4) FUNCTIONS:
+Two functions are type equivalent if they are structurally equivalent.
+
+5) OTHER VARIABLES:
+Two other-type variables are equivalent if they are name equivalent.

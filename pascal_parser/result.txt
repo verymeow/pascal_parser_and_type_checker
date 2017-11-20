@@ -1,0 +1,60 @@
+
+NAME EQUIVALENT: 
+1)car1, car2 are name equivalent.
+2)lol, lohol are name equivalent.
+3)e, f are name equivalent.
+4)ball, call are name equivalent.
+5)salary, age, goal, goalie are name equivalent.
+6)mom, tom are name equivalent.
+7)temp, interest are name equivalent.
+8)a, b are name equivalent.
+9)c, d are name equivalent.
+10)name, docname are name equivalent.
+--------------------------------------------------------------------------
+INTERNAL NAME EQUIVALENT: 
+1)temp, interest are internal name equivalent.
+2)salary, age are internal name equivalent.
+3)name, docname are internal name equivalent.
+4)lol, lohol are internal name equivalent.
+5)ball, call are internal name equivalent.
+6)a, b are internal name equivalent.
+7)c, d are internal name equivalent.
+8)e, f are internal name equivalent.
+9)goal, goalie are internal name equivalent.
+10)mom, tom are internal name equivalent.
+11)car1, car2 are internal name equivalent.
+--------------------------------------------------------------------------
+STRUCTURAL EQUIVALENCE MATRIX: 
+Matrix dimensions: 32
+Y N N N N Y N Y N N N Y N N N N N N N N N N N N N N N N N N N N 
+  Y N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N 
+    Y N N N N N N N N N N N N N N N N N N N N N N N N N N N N N 
+      Y N N N N N N N N N N N N N N N N N N N N N N N N N N N N 
+        Y N Y N Y N N N N N N Y Y N N N N N N N N Y N N N N N N 
+          Y N Y N N N Y N N N N N N N N N N N N N N N N N N N N 
+            Y N Y N N N N N N Y Y N N N N N N N N Y N N N N N N 
+              Y N N N Y N N N N N N N N N N N N N N N N N N N N 
+                Y N N N N N N Y Y N N N N N N N N Y N N N N N N 
+                  Y Y N N N N N N N N N N N N N N N N N N N N N 
+                    Y N N N N N N N N N N N N N N N N N N N N N 
+                      Y N N N N N N N N N N N N N N N N N N N N 
+                        Y N N N N N N N N N N N Y N N N N N N N 
+                          Y Y N N N N N N N N N N N N N N N N N 
+                            Y N N N N N N N N N N N N N N N N N 
+                              Y Y N N N N N N N N Y N N N N N N 
+                                Y N N N N N N N N Y N N N N N N 
+                                  Y N N N N N N N N Y N N N N N 
+                                    Y Y N N N Y N N N Y N N N N 
+                                      Y N N N Y N N N Y N N N N 
+                                        Y Y N N N N N N N Y Y N 
+                                          Y N N N N N N N Y Y N 
+                                            Y N N N N N N N N Y 
+                                              Y N N N Y N N N N 
+                                                Y N N N N N N N 
+                                                  Y N N N N N N 
+                                                    Y N N N N N 
+                                                      Y N N N N 
+                                                        Y N N N 
+                                                          Y Y N 
+                                                            Y N 
+                                                              Y 

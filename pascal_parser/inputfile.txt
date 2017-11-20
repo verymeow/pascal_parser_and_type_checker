@@ -1,0 +1,46 @@
+temp, interest : real;
+salary, age : integer;
+name, docname : string;
+lol, lohol : char;
+ball, call : foo;
+rptr = ^real;
+sptr = ^real;
+cptr = ^char;
+a, b : rptr;
+c, d : sptr;
+e, f : cptr;
+goal,goalie : integer;
+arrey = array [1..6] of integer;
+arrey2 = array [1..6] of char;
+arrey3 = array [1..5] of foo;
+a1 : arrey;
+a2 : arrey3;
+a3 : arrey2;
+mom, tom : jog; 
+foo, coo = integer;
+boo = foo;
+jog, log = char;
+car = record
+	carname : string;
+	cyear :integer;
+	cage : integer;
+	color : string;
+end;
+employee = record
+	empname : string;
+	eyear : integer;
+	eage : log;
+	income : foo;
+end;
+worker = record
+	wname : string;
+	joinyear : integer;
+	numyears : char;	
+	earnings : integer;
+end;
+car1, car2 : car;
+wor1 : worker;
+function max(num1, num2: integer; chr1, chr2 : char): integer;
+function max2(num3, num4: integer; chr3, chr4 : char): integer;
+function max3(num3, num4: integer; chr3, chr4 : char): char;
+
